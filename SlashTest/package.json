@@ -1,0 +1,16 @@
+{
+  "name": "ggm_discord_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.29.0",
+    "discord.js": "^13.6.0"
+  }
+}
